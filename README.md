@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Резюме</TITLE>
 </head>
 <body bgcolor="#ff9d7d">
 <font align=center><p><h1><b>Резюме</b></h1></font>
